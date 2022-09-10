@@ -1,0 +1,37 @@
+table, tr, td{
+    background-color:rgb(53, 62, 67);
+    font-family: century gothic;
+    color: rgb(207, 161, 16);
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+body {
+    background-image: url('../img/bgutm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.h{
+    border: 8px groove rgb(53, 62, 67);
+    padding: 20px;
+}
+
+.posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+}
+
+h1{
+    color: rgb(53, 62, 67);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
